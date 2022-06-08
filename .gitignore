@@ -2,7 +2,7 @@
 .vertx/
 
 ### Eclipse ###
-
+build/
 .metadata
 bin/
 tmp/
@@ -74,6 +74,13 @@ local.properties
 # Gradle:
 .idea/**/gradle.xml
 .idea/**/libraries
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/vcs.xml
+/.idea/codeStyles/
+/.idea/azure/
+/.idea/.name
 
 # CMake
 cmake-buildTool-debug/
